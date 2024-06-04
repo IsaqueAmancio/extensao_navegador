@@ -9,7 +9,7 @@ async function  a(){
 }
 const press_btn= () => {
   console.log("oi")
-  const bt_expandir = document.getElementById("topnavi-whydeepl-flyout-button")
+  const bt_expandir = document.getElementById("topnavi-whydeepl-flyout-button") //link do site https://www.deepl.com/pt-BR/translator
   bt_expandir.click()
   console.log("passei aqui")
 }
